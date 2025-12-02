@@ -1,3 +1,5 @@
+(Forked to test out some survival models using linked shrinkage)
+
 # ThinkInteractions
 R scripts and demo's for fitting a regression model with linked shrinkage.
 
